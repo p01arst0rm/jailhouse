@@ -1,0 +1,11 @@
+{
+    "name": "Jailhouse",
+    "description": "Windows Domain Host OSINT",
+    "version": "1.0.0",
+    "usage": {
+        "-v": "print version number",
+        "-h": "print usage information",
+        "-Domain_Controller": "Address of domain Controller",
+        "-O": "CSV output file"
+    }
+}
